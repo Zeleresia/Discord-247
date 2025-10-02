@@ -36,7 +36,7 @@ The worker is built for robust, non-blocking operation:
 
 1.  Clone the repository:
     ```bash
-    git clone <REPO_URL>.git
+    git clone https://github.com/Zeleresia/Discord-247.git
     cd Discord_247
     ```
 2.  Install the necessary dependencies. You'll need a `requirements.txt` containing the necessary libraries like `psutil`, `python-dotenv`, `requests`, and `websocket-client`.
