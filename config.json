@@ -1,0 +1,7 @@
+{
+    "status": "online",
+    "custom_status": "github:ZeleMarsh7mary/@zeleresia",
+    "heartbeat_interval": 50,
+    "auto_join_voice": false,
+    "voice_channel_id": ""
+}
