@@ -2,7 +2,10 @@
 
 An enhanced, modular Discord worker designed for **24/7 reliability** and managed via **Command Line Interface (CLI)**.
 
-## Key Features
+![preview](https://github.com/Zeleresia/Discord-247/blob/main/preview.gif)
+
+
+## Key Features 🗝️
 
 This project focuses on operational stability and provides key tools for real-time management directly through your terminal.
 
@@ -26,7 +29,7 @@ The worker is built for robust, non-blocking operation:
 
 ---
 
-## Prerequisites
+## Prerequisites 🛠️
 
 * **Python 3.10+** (Required)
 * **Dependencies:** `websocket-client`, `psutil`, `requests`, and `python-dotenv`.
